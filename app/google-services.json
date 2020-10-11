@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "380207974245",
+    "firebase_url": "https://the-car-gallery.firebaseio.com",
+    "project_id": "the-car-gallery",
+    "storage_bucket": "the-car-gallery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380207974245:android:3842bd0cce9e01d5dcc38c",
+        "android_client_info": {
+          "package_name": "perets.app.thecargalleryv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380207974245-v2pjdf89rpi9dhk0hg83enef2i8r1l0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "perets.app.thecargalleryv2",
+            "certificate_hash": "b0b213ba2aff1a75a6caf440c4ccb40c9e5f5ebc"
+          }
+        },
+        {
+          "client_id": "380207974245-2pj1kj2c4fk650s445takukglp38a705.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_p6HT1DhcywPN2dnWxhgPBRfMtXoRNPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380207974245-2pj1kj2c4fk650s445takukglp38a705.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2242268142817928~1052317553"
+    }
+  ],
+  "configuration_version": "1"
+}
