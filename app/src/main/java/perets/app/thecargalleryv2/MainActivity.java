@@ -88,8 +88,8 @@ public class MainActivity extends AppCompatActivity implements MyInternetReceive
         });
 
         mInterstitialAd = new InterstitialAd(this); //test code ->
-        mInterstitialAd.setAdUnitId("ca-app-pub-2242268142817928/2884289889");
-        // "ca-app-pub-3940256099942544/1033173712" -> my test app ad codes
+        mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712");
+        // "" -> my test app ad codes
 
         mInterstitialAd.loadAd(new AdRequest.Builder().build());
 
